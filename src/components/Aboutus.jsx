@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <div className="about-container">
       <h2>About Our Electronic Store in vijayawada</h2>
-      <h3> Gude Bhuvana</h3>
+      
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
@@ -16,7 +16,7 @@ const AboutUs = () => {
       <Link to="/computers">
         <div className="about-item">        
           <img src="computers.jpeg" alt="Computers" />
-          <h3>Computers</h3>
+          <h3>Gude Bhuvana</h3>
           <p>Find the best computers for gaming, work, and personal use.</p>
         </div>
         </Link>
